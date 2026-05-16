@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Rice (1kg)",
+    "invoiceNumber": "INV-1001",
+    "category": "Grocery",
+    "stock": 120,
+    "price": 60,
+    "gst": 5,
+    "mfg": "2025-01-10",
+    "exp": "2026-01-10"
+  },
+  {
+    "id": 2,
+    "name": "Wheat Flour (1kg)",
+    "invoiceNumber": "INV-1002",
+    "category": "Grocery",
+    "stock": 90,
+    "price": 55,
+    "gst": 5,
+    "mfg": "2025-02-15",
+    "exp": "2026-02-15"
+  },
+  {
+    "id": 3,
+    "name": "Sugar (1kg)",
+    "invoiceNumber": "INV-1003",
+    "category": "Grocery",
+    "stock": 150,
+    "price": 48,
+    "gst": 5,
+    "mfg": "2025-03-01",
+    "exp": "2026-03-01"
+  },
+  {
+    "id": 4,
+    "name": "Milk (1L)",
+    "invoiceNumber": "INV-2001",
+    "category": "Dairy",
+    "stock": 80,
+    "price": 65,
+    "gst": 5,
+    "mfg": "2025-04-01",
+    "exp": "2025-04-10"
+  },
+  {
+    "id": 5,
+    "name": "Curd (500g)",
+    "invoiceNumber": "INV-2002",
+    "category": "Dairy",
+    "stock": 60,
+    "price": 40,
+    "gst": 5,
+    "mfg": "2025-04-05",
+    "exp": "2025-04-12"
+  },
+  {
+    "id": 6,
+    "name": "Cheese (200g)",
+    "invoiceNumber": "INV-2003",
+    "category": "Dairy",
+    "stock": 45,
+    "price": 120,
+    "gst": 12,
+    "mfg": "2025-03-20",
+    "exp": "2025-06-20"
+  },
+  {
+    "id": 7,
+    "name": "Laptop",
+    "invoiceNumber": "INV-3001",
+    "category": "Electronics",
+    "stock": 25,
+    "price": 45000,
+    "gst": 18,
+    "mfg": "2025-01-15",
+    "exp": "2028-01-15"
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Headphones",
+    "invoiceNumber": "INV-3002",
+    "category": "Electronics",
+    "stock": 9,
+    "price": 2500,
+    "gst": 18,
+    "mfg": "2025-02-10",
+    "exp": "2028-02-10"
+  },
+  {
+    "id": 9,
+    "name": "Smartphone",
+    "invoiceNumber": "INV-3003",
+    "category": "Electronics",
+    "stock": 30,
+    "price": 32000,
+    "gst": 18,
+    "mfg": "2025-03-05",
+    "exp": "2028-03-05"
+  },
+  {
+    "id": 10,
+    "name": "Tea Powder (500g)",
+    "invoiceNumber": "INV-4001",
+    "category": "Beverages",
+    "stock": 70,
+    "price": 180,
+    "gst": 12,
+    "mfg": "2025-02-20",
+    "exp": "2026-02-20"
+  },
+  {
+    "id": 11,
+    "name": "Coffee (200g)",
+    "invoiceNumber": "INV-4002",
+    "category": "Beverages",
+    "stock": 55,
+    "price": 250,
+    "gst": 12,
+    "mfg": "2025-03-10",
+    "exp": "2026-03-10"
+  },
+  {
+    "id": 12,
+    "name": "Green Tea (100 bags)",
+    "invoiceNumber": "INV-4003",
+    "category": "Beverages",
+    "stock": 5,
+    "price": 300,
+    "gst": 12,
+    "mfg": "2025-01-25",
+    "exp": "2026-01-25"
+  },
+  {
+    "id": 13,
+    "name": "Shampoo (500ml)",
+    "invoiceNumber": "INV-5001",
+    "category": "Personal Care",
+    "stock": 85,
+    "price": 180,
+    "gst": 18,
+    "mfg": "2025-02-01",
+    "exp": "2027-02-01"
+  },
+  {
+    "id": 14,
+    "name": "Soap (Pack of 4)",
+    "invoiceNumber": "INV-5002",
+    "category": "Personal Care",
+    "stock": 120,
+    "price": 75,
+    "gst": 18,
+    "mfg": "2025-03-15",
+    "exp": "2027-03-15"
+  },
+  {
+    "id": 15,
+    "name": "Toothpaste (150g)",
+    "invoiceNumber": "INV-5003",
+    "category": "Personal Care",
+    "stock": 8,
+    "price": 90,
+    "gst": 18,
+    "mfg": "2025-01-18",
+    "exp": "2027-01-18"
+  },
+  {
+    "id": 16,
+    "name": "Oil (1L)",
+    "invoiceNumber": "INV-1004",
+    "category": "Grocery",
+    "stock": 110,
+    "price": 150,
+    "gst": 5,
+    "mfg": "2025-02-12",
+    "exp": "2026-02-12"
+  },
+  {
+    "id": 17,
+    "name": "Butter (200g)",
+    "invoiceNumber": "INV-2004",
+    "category": "Dairy",
+    "stock": 50,
+    "price": 95,
+    "gst": 5,
+    "mfg": "2025-03-01",
+    "exp": "2025-05-01"
+  },
+  {
+    "id": 18,
+    "name": "Energy Drink (500ml)",
+    "invoiceNumber": "INV-4004",
+    "category": "Beverages",
+    "stock": 75,
+    "price": 110,
+    "gst": 12,
+    "mfg": "2025-02-05",
+    "exp": "2026-02-05"
+  },
+  {
+    "id": 19,
+    "name": "Face Cream (100g)",
+    "invoiceNumber": "INV-5004",
+    "category": "Personal Care",
+    "stock": 65,
+    "price": 220,
+    "gst": 18,
+    "mfg": "2025-01-30",
+    "exp": "2027-01-30"
+  },
+  {
+    "id": 20,
+    "name": "LED Bulb (12W)",
+    "invoiceNumber": "INV-3004",
+    "category": "Electronics",
+    "stock": 150,
+    "price": 120,
+    "gst": 18,
+    "mfg": "2025-03-12",
+    "exp": "2028-03-12"
+  }
+]
